@@ -1,0 +1,23 @@
+{
+  "name": "node-circleci",
+  "version": "1.0.0",
+  "description": "integration test with a node app in circle CI which will be executed during builds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafanog/nodeCircleCI.git"
+  },
+  "keywords": [
+    "circleCI",
+    "node"
+  ],
+  "author": "Rafael Noguera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafanog/nodeCircleCI/issues"
+  },
+  "homepage": "https://github.com/rafanog/nodeCircleCI#readme"
+}
