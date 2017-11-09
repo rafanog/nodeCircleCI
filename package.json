@@ -1,23 +1,18 @@
 {
-  "name": "node-circleci",
+  "name": "nodecircleci",
   "version": "1.0.0",
-  "description": "integration test with a node app in circle CI which will be executed during builds",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rafanog/nodeCircleCI.git"
-  },
-  "keywords": [
-    "circleCI",
-    "node"
-  ],
-  "author": "Rafael Noguera",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/rafanog/nodeCircleCI/issues"
-  },
-  "homepage": "https://github.com/rafanog/nodeCircleCI#readme"
+  "author": "Auth0",
+  "license": "MIT",
+  "dependencies": {
+    "@uirouter/angularjs": "^1.0.5",
+    "angular": "^1.6.1",
+    "angular-auth0": "^2.0.0",
+    "auth0-js": "^8.8.0",
+    "bootstrap": "^3.3.7",
+    "express": "^4.14.0"
+  }
 }
