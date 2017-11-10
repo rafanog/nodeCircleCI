@@ -9,7 +9,7 @@
   "author": "Auth0",
   "license": "MIT",
   "dependencies": {
-    "xmlhttprequest": "1.7.0"
+    "xmlhttprequest": "1.8.0"
   },
   "devDependencies": {
     "npm-check": "^5.5.2"
