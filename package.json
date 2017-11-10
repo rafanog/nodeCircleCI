@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
-    "test": "npm-check"
+    "test": "npm-check -u"
   },
   "author": "Auth0",
   "license": "MIT",
