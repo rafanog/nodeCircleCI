@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
-    "test": "npm-check -u"
+    "test": "npm-check --no-emoji --no-color"
   },
   "author": "Auth0",
   "license": "MIT",
