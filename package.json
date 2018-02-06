@@ -6,7 +6,7 @@
     "start": "node server.js",
     "test": "npm-check --no-emoji --no-color"
   },
-  "author": "Auth0",
+  "author": "Rafael Noguera",
   "license": "MIT",
   "dependencies": {
     "xmlhttprequest": "1.8.0"
